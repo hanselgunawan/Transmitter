@@ -1,13 +1,4 @@
 //QUESTION: https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
-
-//we can sort with #include<algorithm>
-//sort(x, x+n); where X = array and N = last index
-
-//SOLUTION: https://gist.github.com/primaryobjects/1c9e9da8bc7fa81661a1ad435de4b358
-//It's using GREEDY ALGORITHM
-
-//Greedy Algorithm: https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
-
 #include <map>
 #include <set>
 #include <list>
